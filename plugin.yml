@@ -1,0 +1,6 @@
+main: fr.swoking.bowtp.BowTP
+name: BowTP
+version: 0.0.1
+author: Swoking
+description: Lobby plugin v2
+commands:
